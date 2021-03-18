@@ -1,3 +1,9 @@
+# A work in progress!
+
+Using the below Jekyll template as a starting point.
+
+-----------
+
 ⚠️⚠️ This project is not maintained anymore ⚠️⚠️
 
 ## Will Jekyll Template - [Demo](https://willianjusten.github.io/will-jekyll-template)
